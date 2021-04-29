@@ -58,7 +58,6 @@ class Parimatch implements Bookmaker{
                 'team01' => 'Барселона',
                 'team02' => 'Ювентус',
                 'startTime' => 18,
-                'accept' => 'false',
                 'result' => [
                     'Точный счет' =>  '2-1',
                     'Победа' => 'Барселона',
